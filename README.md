@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghu050
+- 👋 Hi, I’m Raghavendra Kusoor
 - 👀 I’m interested in full-stack development, Software Development and contributing to open-source projects.
 - 🌱 I’m currently learning Java, Core Java, HTML, CSS, JavaScript, Java Frameworks and Oracle SQL.
 - 💞️ I’m looking to collaborate on web development.
